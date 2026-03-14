@@ -34,3 +34,7 @@ This project is an interactive Excel dashboard created using sales data of multi
 - Identify top performing regions
 - Monitor target achievement
 - Analyze sales distribution visually
+
+  ## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
